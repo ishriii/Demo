@@ -1,5 +1,4 @@
 # Introduction to Markdown
-
 Markdown is a **lightweight markup language** used to format text in a simple and readable way. It is widely used on platforms like GitHub to create documentation files such as *README.md*.
 
 ## Why Use Markdown?
