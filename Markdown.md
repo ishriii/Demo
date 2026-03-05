@@ -13,3 +13,13 @@ Markdown makes it easy to write content that is both **clean** and *structured* 
 - It works seamlessly on **GitHub repositories**.
 
 In summary, Markdown is a *powerful yet simple* tool for writing formatted content efficiently.
+
+## Difference between Markdown and DITA
+
+| **Markdown** | **DITA** |
+|--------------|----------|
+|Light-weight simple format markup language | XML-based structured markup language |
+|Symbol based syntax| XML based tags, attributes and elements |
+| No Stylesheet or schema | Schema/CSS required |
+| - | Topic based authoring |
+| No built-in validation system | Supports validation using schemas and DTDs |
