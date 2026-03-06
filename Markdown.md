@@ -23,3 +23,15 @@ In summary, Markdown is a *powerful yet simple* tool for writing formatted conte
 | No Stylesheet or schema | Schema/CSS required |
 | - | Topic based authoring |
 | No built-in validation system | Supports validation using schemas and DTDs |
+
+1.HTML 
+<figure style="text-align: center;">
+  <img src="image.png" alt="Markdown">
+  <figcaption style="text-align: center;"><em>Figure: Markdown Logo</em></figcaption>
+</figure>
+
+
+2.Markdown
+
+   ![Markdown](image.png)
+   
